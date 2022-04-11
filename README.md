@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://rinexav.herokuapp.com/
-- 🌱 I’m currently learning LINUX
+- 🌱 I’m currently learning LINUX, BeautifulSoap, ISTQB
 - 📫 How to reach me:
     - Twitter: https://twitter.com/FilipGaldyn
 
